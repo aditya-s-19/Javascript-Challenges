@@ -7,7 +7,8 @@
 - Subtract the smaller number from the bigger number.
 - Go back to step 2 and repeat.
 
-The above process, known as Kaprekar's routine, will always reach its fixed point, 6174, in at most 7 iterations.[4] Once 6174 is reached, the process will continue yielding 7641 – 1467 = 6174. 
+The above process, known as Kaprekar's routine, will always reach its fixed point, 6174, in at most 7 iterations.Once 6174 is reached, the process will continue yielding 7641 – 1467 = 6174. 
+Print all the iterations till the number reaches 6174
 
 **For example, choose 1459:**
 ```
