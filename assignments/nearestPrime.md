@@ -12,7 +12,7 @@ You are given an array A of n integer elements a<sub>1</sub>-a<sub>n</sub>. For 
 [10,14,20]
 
 **Sample Output2:**
-[11,13,17]
+[11,13,19]
 
 **Constraints:**<br>
 1<=n<=100 <br>
